@@ -52,3 +52,24 @@ int main() {
 
     return 0;
 }
+
+
+// constructor: method used to initialise object
+// same name as class, doesnt have return type, only called once(automatically), memory allocation happen when constructor is called, its always public
+// types of constructor: non parameterised,parameterised,copy
+
+// multiple constructors within same class is example of constructor overlaoding(example of polymorphism)
+
+// this: pointer that points to current object
+// (*this).prop same as this->prop
+
+// copy constructor: copy properties of one object into other
+
+// shallow copy: by default compiler does this
+// deep copy: for dynamic allocated memory
+// new keyword is used for dynamic allocation
+// delete keyword is used for deallocation of dynamic memory
+
+// destructor: deallocation of memory
+// same name as class, with ~className()
+
