@@ -73,3 +73,26 @@ int main() {
 // destructor: deallocation of memory
 // same name as class, with ~className()
 
+// inheritance: when a class inherits properties and members of another class
+// Base class: whose properties are inherited
+// Derived Class: Which inherits properties 
+
+// three modes of inheritance: 
+
+// types of inheritance: single, multilevel,heirarchical,multiple,hybrid
+
+// polymorphism: the ability of object to take different forms or behave differently depending on the context in which they are used
+
+// types of polymorphism: compile time, runtime
+
+// types of Compile time: Function,constructor,operator overlaoding
+// types of runtime: Function overriding, virtual functions
+
+// virtual function: which is redefined in the derived class(virtual keyword is used)
+
+// abstraction: hiding all unnecessary details, showing only important part, using access modifiers
+
+// abstract class: used to provide a base class from which other class can be derived
+
+// static keyword: static veriables are created & initialised once in lifetime of a program, shared by all objects of class
+
